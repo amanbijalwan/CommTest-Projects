@@ -5,3 +5,8 @@ Messaging terminal that uses custom socket abstractions to implement end-to-end 
 #### This project creates socket connection to recieve data from server as per requests.
 #### This echos the client response to client back from server end.
 
+## 02 ESP32 Server Client
+#### ESP32 webserver project, access with webpage or socket.
+#### Ensure respective libraries are installed.
+#### Sim test script added for direct testing.
+
